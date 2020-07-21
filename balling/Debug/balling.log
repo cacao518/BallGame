@@ -1,12 +1,6 @@
 ﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
-  stdafx.cpp
-cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
-  MainFrm.cpp
   ChildView.cpp
-C:\Users\cacao\Desktop\네오플 제주 아카데미 준비\포트폴리오\공튀기기\balling\balling\ChildView.cpp(271,22): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Box.cpp
-  balling.cpp
+C:\Users\cacao\BallGame\balling\ChildView.cpp(271,22): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Ball.cpp
   코드를 생성하고 있습니다...
-Ball.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
-  balling.vcxproj -> C:\Users\cacao\Desktop\네오플 제주 아카데미 준비\포트폴리오\공튀기기\balling\Debug\balling.exe
+  balling.vcxproj -> C:\Users\cacao\BallGame\Debug\balling.exe

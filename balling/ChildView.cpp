@@ -322,7 +322,7 @@ void CChildView::OnLButtonDown(UINT nFlags, CPoint point)
 		{
 			if(ball.m_jump == 0)
 			{
-				ball.m_jump += 35;
+				ball.m_jump += 32;
 			}
 		}
 	}
